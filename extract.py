@@ -1,3 +1,5 @@
+# Taken from http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/
+    
 from bs4 import BeautifulSoup
 
 import requests
